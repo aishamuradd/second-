@@ -6,3 +6,5 @@
 **aisha**
 
 New paragraph 
+
+~~strike through~~
